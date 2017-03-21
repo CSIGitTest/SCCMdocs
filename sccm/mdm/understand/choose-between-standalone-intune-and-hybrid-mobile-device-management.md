@@ -26,7 +26,7 @@ One of the most commonly asked questions regarding mobile device management (MDM
 
 Intune standalone is a cloud-only MDM solution that involves no on-premises resources and is managed using a web console that can be accessed from anywhere in the world. Intune datacenters are hosted in North America, Europe, and Asia. Because Intune is a cloud service, you can deploy Intune management to your devices in a relatively short timeframe. You may also choose Intune standalone if your organization is moving to the cloud.
 
-## What is hybrid MDM with Configuration Manager?
+## What is hybrid MDM with Configuration Manager? 
 
 Hybrid MDM is a solution that uses Intune as the delivery channel for policies, profiles, and applications to devices but uses Configuration Manager on-premises infrastructure to store and administer content and manage the devices. You may choose hybrid MDM if you already have a significant investment in Configuration Manager and want to extend it to manage mobile devices. A hybrid implementation gives you “single pane of glass” control, which means you can use the same on-premises infrastructure and administrative console to manage mobile devices with Intune as well as PCs and servers with the traditional Configuration Manager client.
 
